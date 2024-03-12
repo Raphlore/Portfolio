@@ -44,5 +44,5 @@ pageTransitions();
 
 function downloadCV() {
   // Open a new window/tab with the download link
-  window.open('Backend Developer.pdf', '_blank');
+  window.open('resume.pdf', '_blank');
 }
