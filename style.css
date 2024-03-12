@@ -398,6 +398,14 @@ h4 {
   width: 50%;
 }
 
+.typescript {
+  width: 65%;
+}
+
+.jest-supertesting {
+  width: 50%;
+}
+
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
